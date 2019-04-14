@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class AppCategory {
     private Long id;
-	private int id3;
+	private int id2;
 
     private String categorycode;
 
